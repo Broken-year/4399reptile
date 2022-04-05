@@ -1,0 +1,730 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>热血动画片/动画电影-热血动画搜索-4399动画片大全</title>
+    <meta name="keywords" content="热血动画片,热血动画电影,热血动漫" />
+    <meta name="description" content="4399热血动画搜索推荐，好看的热血动画片/动画电影在线观看。最新最热门的国内、日韩、欧美热血动画片/动画电影推荐，好看的经典热血动漫大全推荐。" />
+    <link rel="stylesheet" type="text/css" href="/css/donghua/v5/search.css?v=20190508">
+    <script type="text/javascript" src="/js/pretreatfunc.js"></script>
+    <meta http-equiv="mobile-agent" content="format=html5; url=http://www.4399dmw.com/mobile/donghua/" />
+    <script type="text/javascript">
+        mobileMap('http://www.4399dmw.com/mobile/donghua/');
+        var tophisflag = true;
+    </script>
+    <!-- 头部导航条 -->
+<link href="/css/public/top_bar/v3/animeNav.css?v=20211018a" rel="stylesheet" type="text/css" />    <!--[if IE 6]>
+    <script src="http://www.4399dmw.com/js/libs/public/v1/DD_belatedPNG_0.0.8a-min.js"></script>
+    <script type="text/javascript">DD_belatedPNG.fix('.png_img');</script>
+    <![endif]-->
+    <base target="_blank" />
+</head>
+<body class="lazyimg large-screen">
+<div class="anime-nav" id="j-anime-nav">
+  <div class="anime-nav__bg"></div>
+  <div class="anime-nav__main">
+    <div class="anime-nav__right">
+      <div class="anime-nav__share">
+        <div target="_blank" class="nime-nav__share-txt">分享</div>
+        <div class="anime-nav__share-list">
+          <div class="bdsharebuttonbox" data-tag="share_2">
+            <a class="anime-nav__share-qzone" data-cmd="qzone" title="分享到QQ空间"></a>
+            <a class="anime-nav__share-tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+            <a class="anime-nav__share-tieba" data-cmd="tieba" title="分享到百度贴吧"></a>
+            <a class="anime-nav__share-weixin" data-cmd="weixin" title="分享到微信"></a>
+            <a class="anime-nav__share-copy" data-cmd="copy" title="分享到复制网址"></a>
+          </div>
+        </div>
+      </div>
+      <a href="javascript:void(0);" class="anime-nav__collect" id="j-anime-nav-collect">收藏</a>
+      <a href="http://huodong.4399.com/comm/dmtougao/" class="anime-nav__post" target="_blank" rel="noopener">投稿</a>
+      <div class="anime-nav__user" id="j-anime-nav-user">
+        <!-- dynamic template here -->
+      </div>
+    </div>
+    <div class="anime-nav__left">
+      <div class="anime-nav__logo">
+        <a href="/" class="anime-nav__logo-img"></a>
+      </div>
+      <div class="anime-nav__links">
+        <a href="/" class="anime-nav__link" target="_blank" rel="noopener">首页</a>
+        <a href="/donghua/" class="anime-nav__link" target="_blank" rel="noopener">动画</a>        
+        <a href="/news/" class="anime-nav__link" target="_blank" rel="noopener">速递</a>
+<!--        <a href="http://my.4399.com/forums/page-dm" class="anime-nav__link" target="_blank" rel="noopener">群组</a>-->
+      </div>
+      <!-- 公众号推荐 -->
+      <div class="anime-nav__public" id="j-anime-nav-public">
+        <!-- public dynamic template here -->
+      </div>
+    </div>
+  </div>
+</div><div class="container">
+        <!-- banner -->
+        <div class="banner">
+            <div class="banner__main">
+                <a href="http://www.4399dmw.com/donghua" class="banner__logo" target="_blank"></a>
+                <div class="banner__search">
+                    <form name="searchform" id="searchform" action="/search/dh_cata_search.php" method="get" target="_self">
+                    <input type="text" placeholder="请输入您想看的动画" class="banner__input" id="j-input" name="sw" msg="请输入您想看的动画">
+                    <span class="banner__place j-placeholder">请输入您想看的动画</span>
+                    <button class="banner__btn"><span></span></button>
+                    </form>
+                    <div class="fsearch_outside"></div>
+                </div>
+                <div class="banner__links">                    
+                    <a href="http://www.4399.com/" target="_blank">4399小游戏</a>
+                </div>
+            </div>
+        </div>
+        <div class="g-mn">
+            <div class="g-box">
+                <!-- 面包屑 -->
+                <div class="m-breadcrumbs">当前位置：<a href="http://www.4399dmw.com/">4399动漫网</a> > <a href="/donghua/">动画片大全</a> > <span>动画搜索</span></div>
+                <div class="m-result">
+                    <div class="u-hd-line">
+                        <i class="i-line"></i><label>排序方式：</label>
+                        <div class="u-order" id="maintab">
+                            <a class="u-btn " href="" val="1" target="_self">最新</a>
+                            <a class="u-btn z-active" href="" val="0" target="_self">最热</a>
+                        </div>
+                        <p class="u-tip">共有 <span>481部</span> 符合条件的动画</p>
+                    </div>
+                                        <!-- 列表 -->
+                    <div class="lst">
+                                                <a href="/dh/qiyzderj/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/191108/47_191108103450_1.jpg" alt="七大罪第二季">
+                            <div class="u-ct">
+                                <p class="u-tt">七大罪第二季</p>
+                                <span class="u-score score_9031"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/mwyxhaoke/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/10495.jpg" alt="漫威英雄浩克">
+                            <div class="u-ct">
+                                <p class="u-tt">漫威英雄浩克</p>
+                                <span class="u-score score_10495"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/ggqxz/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/7066.jpg" alt="果果骑侠传">
+                            <div class="u-ct">
+                                <p class="u-tt">果果骑侠传</p>
+                                <span class="u-score score_7066"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/msjxrq/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/12179.jpg" alt="末世觉醒之入侵">
+                            <div class="u-ct">
+                                <p class="u-tt">末世觉醒之入侵</p>
+                                <span class="u-score score_12179"></span>
+                            </div>
+                        </a>
+                                                <a href="/dmzq/dh/hongmaolantu/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/1085.jpg" alt="虹猫蓝兔七侠传">
+                            <div class="u-ct">
+                                <p class="u-tt">虹猫蓝兔七侠传</p>
+                                <span class="u-score score_1085"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/jtjsgyb/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/2851.jpg" alt="家庭教师国语版">
+                            <div class="u-ct">
+                                <p class="u-tt">家庭教师国语版</p>
+                                <span class="u-score score_2851"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/ljlzxzbmy/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/12821.jpg" alt="鹿精灵之寻找兵马俑">
+                            <div class="u-ct">
+                                <p class="u-tt">鹿精灵之寻找兵马俑</p>
+                                <span class="u-score score_12821"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/klbb2/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/3507.jpg" alt="恐龙宝贝之龙神勇士2">
+                            <div class="u-ct">
+                                <p class="u-tt">恐龙宝贝之龙神勇士2</p>
+                                <span class="u-score score_3507"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/nnntnxs5/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/191011/32_191011094843_1.jpg" alt="那年那兔那些事儿第五季">
+                            <div class="u-ct">
+                                <p class="u-tt">那年那兔那些事儿第五季</p>
+                                <span class="u-score score_13763"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/nlszz/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/10436.jpg" alt="能量兽之战">
+                            <div class="u-ct">
+                                <p class="u-tt">能量兽之战</p>
+                                <span class="u-score score_10436"></span>
+                            </div>
+                        </a>
+                                                <a href="/dmzq/dh/shumabaobeidisibu/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/1002.jpg" alt="数码宝贝第四部">
+                            <div class="u-ct">
+                                <p class="u-tt">数码宝贝第四部</p>
+                                <span class="u-score score_1002"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/bzdzres/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190802/32_190802102823_1.jpg" alt="爆战弹珠人eS">
+                            <div class="u-ct">
+                                <p class="u-tt">爆战弹珠人eS</p>
+                                <span class="u-score score_13622"></span>
+                            </div>
+                        </a>
+                                                <a href="/huatouguizhisun/donghua/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/191009/32_191009165501_1.jpg" alt="滑头鬼之孙第一季">
+                            <div class="u-ct">
+                                <p class="u-tt">滑头鬼之孙第一季</p>
+                                <span class="u-score score_857"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/ntlzz/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/11063.jpg" alt="那兔龙之战">
+                            <div class="u-ct">
+                                <p class="u-tt">那兔龙之战</p>
+                                <span class="u-score score_11063"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/cyh/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/8288.jpg" alt="潮与虎">
+                            <div class="u-ct">
+                                <p class="u-tt">潮与虎</p>
+                                <span class="u-score score_8288"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/sdsxs/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/2369.jpg" alt="圣斗士星矢Ω">
+                            <div class="u-ct">
+                                <p class="u-tt">圣斗士星矢Ω</p>
+                                <span class="u-score score_2369"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/daguizu/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/9399.jpg" alt="大贵族">
+                            <div class="u-ct">
+                                <p class="u-tt">大贵族</p>
+                                <span class="u-score score_9399"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/overlord2/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/11632.jpg" alt="overlord第二季">
+                            <div class="u-ct">
+                                <p class="u-tt">overlord第二季</p>
+                                <span class="u-score score_11632"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/jmxy/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/12178.jpg" alt="绝命响应">
+                            <div class="u-ct">
+                                <p class="u-tt">绝命响应</p>
+                                <span class="u-score score_12178"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/csxdj/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/191012/32_191012095955_1.jpg" alt="厨神小当家">
+                            <div class="u-ct">
+                                <p class="u-tt">厨神小当家</p>
+                                <span class="u-score score_13781"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/sntjd/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/210601/29_210601140237_1.jpg" alt="少年特警队">
+                            <div class="u-ct">
+                                <p class="u-tt">少年特警队</p>
+                                <span class="u-score score_3742"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/angrybirds/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/4549.jpg" alt="愤怒的小鸟">
+                            <div class="u-ct">
+                                <p class="u-tt">愤怒的小鸟</p>
+                                <span class="u-score score_4549"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/nnntnxse3/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190924/32_190924152252_1.jpg" alt="那年那兔那些事儿第三季">
+                            <div class="u-ct">
+                                <p class="u-tt">那年那兔那些事儿第三季</p>
+                                <span class="u-score score_9947"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/dinofroz/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/10043.jpg" alt="恐龙王">
+                            <div class="u-ct">
+                                <p class="u-tt">恐龙王</p>
+                                <span class="u-score score_10043"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/shalen/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/1945.jpg" alt="侠岚第一季">
+                            <div class="u-ct">
+                                <p class="u-tt">侠岚第一季</p>
+                                <span class="u-score score_1945"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/qhmy/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/10466.jpg" alt="拳皇命运">
+                            <div class="u-ct">
+                                <p class="u-tt">拳皇命运</p>
+                                <span class="u-score score_10466"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/hlpxr/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/10836.jpg" alt="哈喽葡星人 英文版">
+                            <div class="u-ct">
+                                <p class="u-tt">哈喽葡星人 英文版</p>
+                                <span class="u-score score_10836"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/tbxddsj/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/11910.jpg" alt="托宝兄弟第四季">
+                            <div class="u-ct">
+                                <p class="u-tt">托宝兄弟第四季</p>
+                                <span class="u-score score_11910"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/lkwgycyxd/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/11207.jpg" alt="洛克王国4勇闯英雄岛">
+                            <div class="u-ct">
+                                <p class="u-tt">洛克王国4勇闯英雄岛</p>
+                                <span class="u-score score_11207"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/campione/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/3033.jpg" alt="Campione 弑神者">
+                            <div class="u-ct">
+                                <p class="u-tt">Campione 弑神者</p>
+                                <span class="u-score score_3033"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/qiangn/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/10764.jpg" alt="枪娘">
+                            <div class="u-ct">
+                                <p class="u-tt">枪娘</p>
+                                <span class="u-score score_10764"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/xwsjdh/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/210205/29_210205095717_1.jpg" alt="星武神诀">
+                            <div class="u-ct">
+                                <p class="u-tt">星武神诀</p>
+                                <span class="u-score score_14202"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/xzdshi2/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/9381.jpg" alt="学战都市Asterisk第二季">
+                            <div class="u-ct">
+                                <p class="u-tt">学战都市Asterisk第二季</p>
+                                <span class="u-score score_9381"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/hlbjx/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/190305/10803.jpg" alt="欢乐北极星">
+                            <div class="u-ct">
+                                <p class="u-tt">欢乐北极星</p>
+                                <span class="u-score score_10803"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/fatelasten/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/201123/29_201123155353_1.jpg" alt="Fate/EXTRA Last Encore">
+                            <div class="u-ct">
+                                <p class="u-tt">Fate/EXTRA Last Encore</p>
+                                <span class="u-score score_9523"></span>
+                            </div>
+                        </a>
+                                                <a href="/dh/sjzl3/" target="_blank" class="u-card">
+                            <img data-src="//dmimg.5054399.com/allimg/191009/32_191009174610_1.jpg" alt="食戟之灵第三季">
+                            <div class="u-ct">
+                                <p class="u-tt">食戟之灵第三季</p>
+                                <span class="u-score score_11172"></span>
+                            </div>
+                        </a>
+                                            </div>
+                    <!-- 分页 -->
+                    <div class="result__page">
+                        <div class="result__page-in clearfix">                            
+                            <a class="prev" href="/search/dh-1-0-0-0-0-6-0/" target="_self">上一页</a><a href="/search/dh-1-0-0-0-0-1-0/" target="_self">1</a><span class="ell">...</span><a href="/search/dh-1-0-0-0-0-5-0/" target="_self">5</a><a href="/search/dh-1-0-0-0-0-6-0/" target="_self">6</a><span class="cur">7</span><a href="/search/dh-1-0-0-0-0-8-0/" target="_self">8</a><a href="/search/dh-1-0-0-0-0-9-0/" target="_self">9</a><span class="ell">...</span><a href="/search/dh-1-0-0-0-0-14-0/" target="_self">14</a><a class="next" href="/search/dh-1-0-0-0-0-8-0/" target="_self">下一页</a><label for="" class="p_jump"><span>跳转至：</span><input id="gnum" maxlength="3" type="text" value="" class="p_num" onkeyup="(function(e, elem){if(e.keyCode==13){$('#gobtn').click();return false;}$(elem).val($(elem).val().replace(/[^\d]/g, ''));})(event, this);"><a id="gobtn" onclick="return (function(){var num = parseInt($('#gnum').val());if(num>14 || !num){return false;}location.href='/search/dh-1-0-0-0-0-page-0/'.replace(/page|(p=)\d+/, '$1' + num);return false;})();" class="jump" href="#" />GO</a></label>                        </div>
+                    </div>
+                                    </div>
+                <div class="m-retrieve">
+                    <div class="u-hd-line">
+                        <i class="i-line"></i><label>快速搜索动画片</label>
+                    </div>
+                    <div class="ct">
+                        
+                                                <div class="m-letter">
+                            <div class="u-label">首字母搜索<i></i></div>
+                            <div class="lst" id="clflag">
+                                <a href="" target="_self" class="item item-all z-active"  val="0">全部</a>
+                                                                    <a href="#"  target="_self" class="item " val="1">A</a>
+                                                                    <a href="#"  target="_self" class="item " val="2">B</a>
+                                                                    <a href="#"  target="_self" class="item " val="3">C</a>
+                                                                    <a href="#"  target="_self" class="item " val="4">D</a>
+                                                                    <a href="#"  target="_self" class="item " val="5">E</a>
+                                                                    <a href="#"  target="_self" class="item " val="6">F</a>
+                                                                    <a href="#"  target="_self" class="item " val="7">G</a>
+                                                                    <a href="#"  target="_self" class="item " val="8">H</a>
+                                                                    <a href="#"  target="_self" class="item " val="9">I</a>
+                                                                    <a href="#"  target="_self" class="item " val="10">J</a>
+                                                                    <a href="#"  target="_self" class="item " val="11">K</a>
+                                                                    <a href="#"  target="_self" class="item " val="12">L</a>
+                                                                    <a href="#"  target="_self" class="item " val="13">M</a>
+                                                                    <a href="#"  target="_self" class="item " val="14">N</a>
+                                                                    <a href="#"  target="_self" class="item " val="15">O</a>
+                                                                    <a href="#"  target="_self" class="item " val="16">P</a>
+                                                                    <a href="#"  target="_self" class="item " val="17">Q</a>
+                                                                    <a href="#"  target="_self" class="item " val="18">R</a>
+                                                                    <a href="#"  target="_self" class="item " val="19">S</a>
+                                                                    <a href="#"  target="_self" class="item " val="20">T</a>
+                                                                    <a href="#"  target="_self" class="item " val="21">U</a>
+                                                                    <a href="#"  target="_self" class="item " val="22">V</a>
+                                                                    <a href="#"  target="_self" class="item " val="23">W</a>
+                                                                    <a href="#"  target="_self" class="item " val="24">X</a>
+                                                                    <a href="#"  target="_self" class="item " val="25">Y</a>
+                                                                    <a href="#"  target="_self" class="item " val="26">Z</a>
+                                                                    <a href="#"  target="_self" class="item " val="27">0-9</a>
+                                                            </div>
+                        </div>
+                        <div class="m-time">
+                            <div class="u-label">时间<i></i></div>
+                            <div class="lst">
+                                <ul id="cdflag">
+                                    <li>
+                                        <i class="i-line-1"></i>
+                                        <a href="" class="item z-active" val="0">全部</a>
+                                        <i class="i-line-2"></i>
+                                    </li>
+                                                                        <li>
+                                        <i class="i-line-1"></i>
+                                        <a href="" class="item " val="8">2022</a>
+                                        <i class="i-line-2"></i>
+                                    </li>
+                                                                        <li>
+                                        <i class="i-line-1"></i>
+                                        <a href="" class="item " val="1">2020</a>
+                                        <i class="i-line-2"></i>
+                                    </li>
+                                                                        <li>
+                                        <i class="i-line-1"></i>
+                                        <a href="" class="item " val="2">2019</a>
+                                        <i class="i-line-2"></i>
+                                    </li>
+                                                                        <li>
+                                        <i class="i-line-1"></i>
+                                        <a href="" class="item " val="3">2018</a>
+                                        <i class="i-line-2"></i>
+                                    </li>
+                                                                        <li>
+                                        <i class="i-line-1"></i>
+                                        <a href="" class="item " val="4">2010年代</a>
+                                        <i class="i-line-2"></i>
+                                    </li>
+                                                                        <li>
+                                        <i class="i-line-1"></i>
+                                        <a href="" class="item " val="5">2000年代</a>
+                                        <i class="i-line-2"></i>
+                                    </li>
+                                                                        <li>
+                                        <i class="i-line-1"></i>
+                                        <a href="" class="item " val="6">更早</a>
+                                        <i class="i-line-2"></i>
+                                    </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                        <div class="m-status">
+                            <div class="u-label">状态<i></i></div>
+                            <div class="lst"  id="csflag">
+                                <ul>
+                                    <li val="0">
+                                        <i class="i-line-1"></i>
+                                        <a href="" class="item z-active" target="_self">全部</a>
+                                        <i class="i-line-2"></i>
+                                    </li>
+                                                                            <li val="1">
+                                            <i class="i-line-1"></i>
+                                            <a href="#"  target="_self" class="item ">连载中</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                                <li val="2">
+                                            <i class="i-line-1"></i>
+                                            <a href="#"  target="_self" class="item ">已完结</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                                <li val="4">
+                                            <i class="i-line-1"></i>
+                                            <a href="#"  target="_self" class="item ">未开播</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                                <li val="3">
+                                            <i class="i-line-1"></i>
+                                            <a href="#"  target="_self" class="item ">无资源</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                        </ul>
+                            </div>
+                        </div>
+                        <div class="m-area">
+                            <div class="u-label">地区<i></i></div>
+                            <div class="lst">
+                                <ul id="caflag">
+                                    <li val="0">
+                                        <i class="i-line-1"></i>
+                                        <a href="" class="item z-active" target="_self">全部</a>
+                                        <i class="i-line-2"></i>
+                                    </li>
+                                                                            <li val="1">
+                                            <i class="i-line-1"></i>
+                                            <a href="#"  target="_self" class="item  ">中国</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                                <li val="2">
+                                            <i class="i-line-1"></i>
+                                            <a href="#"  target="_self" class="item  ">欧美</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                                <li val="3">
+                                            <i class="i-line-1"></i>
+                                            <a href="#"  target="_self" class="item  ">日本</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                                <li val="4">
+                                            <i class="i-line-1"></i>
+                                            <a href="#"  target="_self" class="item  ">其他</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                        </ul>
+                            </div>
+                        </div>
+                        <div class="m-type">
+                            <div class="u-label">类别<i></i></div>
+                            <div class="lst" id="ccflag">
+                                <ul>
+                                    <li val="0">
+                                        <i class="i-line-1"></i>
+                                        <a href="" class="item " target="_self">全部</a>
+                                        <i class="i-line-2"></i>
+                                    </li>
+                                                                            <li val="1">
+                                            <i class="i-line-1"></i>
+                                            <a href="" class="item  z-active">热血</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                            <li val="5">
+                                            <i class="i-line-1"></i>
+                                            <a href="" class="item  ">搞笑</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                            <li val="6">
+                                            <i class="i-line-1"></i>
+                                            <a href="" class="item  ">科幻</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                            <li val="7">
+                                            <i class="i-line-1"></i>
+                                            <a href="" class="item  ">特摄</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                            <li val="8">
+                                            <i class="i-line-1"></i>
+                                            <a href="" class="item  ">运动</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                            <li val="9">
+                                            <i class="i-line-1"></i>
+                                            <a href="" class="item  ">悬疑</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                            <li val="10">
+                                            <i class="i-line-1"></i>
+                                            <a href="" class="item  ">节目</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                            <li val="11">
+                                            <i class="i-line-1"></i>
+                                            <a href="" class="item  ">奇幻</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                            <li val="12">
+                                            <i class="i-line-1"></i>
+                                            <a href="" class="item  ">经典</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                            <li val="13">
+                                            <i class="i-line-1"></i>
+                                            <a href="" class="item  ">剧情</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                            <li val="17">
+                                            <i class="i-line-1"></i>
+                                            <a href="" class="item  ">少儿</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                            <li val="18">
+                                            <i class="i-line-1"></i>
+                                            <a href="" class="item  ">剧场版</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                            <li val="19">
+                                            <i class="i-line-1"></i>
+                                            <a href="" class="item  ">有声漫</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                            <li val="14">
+                                            <i class="i-line-1"></i>
+                                            <a href="" class="item  ">机战</a>
+                                            <i class="i-line-2"></i>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                    </div>                    
+                </div>
+            </div>
+        </div>
+        <div class="g-ft">
+            <div class="g-box">                
+                <div class="m-adverst-ft">
+                    <div class="u-adverst-1" id="bottombaiduunion">
+                    </div>
+                    <div class="u-adverst-2" id="bottombaiduunionsmall">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<!-- 侧边栏 -->
+    <div class="c-fixed">
+        <div class="c-fixed__menu" id="j-fixed-menu">
+            <a href="#" class="c-fixed__item c-fixed__item--top">
+                <i class="c-fixed__icon"></i>
+                <span class="c-fixed__text">回到顶部</span>
+            </a>
+            <a class="c-fixed__item c-fixed__item--mine">
+                <i class="c-fixed__icon"></i>
+                <span class="c-fixed__text">我的动画</span>
+            </a>
+            <a href="http://huodong.4399.com/dongman/feedback/" class="c-fixed__item c-fixed__item--advice">
+                <i class="c-fixed__icon"></i>
+                <span class="c-fixed__text">意见反馈</span>
+            </a>
+        </div>
+    </div>
+     <!-- 登录提示弹窗 -->
+    <script type="text/html" id="j-dialog-login">
+        <div class="dialog">
+        <a href="javascript:void(0);" class="dialog__close close"></a>
+        <div class="dialog__role1"></div>
+        <p class="dialog__text">您好，此功能需要登录才能继续操作哦~</p>
+        <a href="" class="dialog__btn">去登录</a>
+        </div>
+    </script>
+    <script src="/js/libs/public/v1/jquery-1.7.1.min.js"></script>
+    <!--top nav ad-->
+<script type="text/javascript">
+    var topbar_html_url = '/data/top_bar_data_1912.html';
+    var logout_refresh = true;
+</script>
+<script type="text/javascript" src="//www.4399dmw.com/js/shares/common/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/libs/public/top_bar/v3/animeNav.js"></script>
+<script type="text/javascript" src="/js/usercenter/user/v1/userlogin.js?v=20211018a"></script>
+
+<script>
+  $(function() {
+    animeNav.init({type: 'inner'});
+  })
+</script>
+<!--top nav ad-->    <script src="/js/shares/common/ks.lazyimg.js"></script>
+    <script src="/js/libs/public/v1/ks.gototop.js"></script>
+    <script src="/js/shares/common/ks.marquee.js"></script>
+    <script src="/js/libs/public/v1/ks.dialog.js"></script>
+    <script src="/js/libs/public/v1/ks.tab.js"></script>
+    <!-- <script type="text/javascript" src="/baiduad/baiduad_funs.js"></script> -->
+    <script type="text/javascript" src="/js/common/block.js"></script>
+    <script type="text/javascript" src="/js/libs/public/foot/footer.js?v=20211018a"></script>
+    <script src="/js/donghua/v5/search.js?22v=20211018a"></script>
+    <script src="/js/score.js?v=20211018a"></script>
+    <script type="text/javascript" src="/js/tipwords141022.js?v=20211018a"></script>
+    <script>
+        var m_score_ids = "9031,10495,7066,12179,1085,2851,12821,3507,13763,10436,1002,13622,857,11063,8288,2369,9399,11632,12178,13781,3742,4549,9947,10043,1945,10466,10836,11910,11207,3033,10764,14202,9381,10803,9523,11172,14266,14267,14268,14269,14270,14271,14273,14274,14275,14276,14278,14280";
+        searchtip({cate: 1, id:"#j-input", appendid: '.fsearch_outside'});
+        ScoreDh.get_score({ids: m_score_ids});
+        
+        var dh4399params = [];dh4399params['cc']='1';dh4399params['ca']='0';dh4399params['cs']='0';dh4399params['cl']='0';dh4399params['n']='0';dh4399params['page']='page';dh4399params['cd']='0';        function deleteicon(elem) {
+            var val = $(elem).attr('msg');
+            if (val == 'all' || val == 'sw') {
+                for (key in dh4399params) {
+                    dh4399params[key] = 0;
+                }
+            } else {
+                dh4399params[val] = 0;
+            }
+            select_vol(0);
+        }
+        $(function () {
+            $(".ico-close, #q_reselect").click(function () {
+                deleteicon(this);
+            });
+        });
+
+        function select_vol(elem, type) {
+            var tmpparam = '';
+            if (elem != 0) {
+                dh4399params[type] = $(elem).attr('val');
+            }
+            for (key in dh4399params) {
+                var new_val = key == "page" ? "1":dh4399params[key];
+                tmpparam += '-' + new_val;
+            }
+            var urlparam = tmpparam + '/#tag';
+            if (type == 'n' && false) {
+                location.href = "/search/dh_cata_search.php?sw=&n=" + dh4399params[type];
+                return false;
+            }
+            location.href = '/search/dh' + urlparam;
+            return false;
+        }
+
+        $(function () {
+            $('#clflag > a').click(function () {
+                select_vol(this, 'cl');
+                return false;
+            });
+            $('#csflag li').click(function () {
+                select_vol(this, 'cs');
+                return false;
+            });
+            $('#ccflag li').click(function () {
+                select_vol(this, 'cc');
+                return false;
+            });
+            $('#caflag > li').click(function () {
+                select_vol(this, 'ca');
+                return false;
+            })
+            $('#cdflag a').click(function () {
+                select_vol(this, 'cd');
+                return false;
+            });
+            
+            
+            $('#maintab > a').click(function () {
+                window.tag = "#tag";
+                select_vol(this, 'n');
+                return false;
+            });
+
+            show_dmw_common_pic(980, 90, 'bottombaiduunion') ;
+            show_dmw_common_pic(200, 90, 'bottombaiduunionsmall') ;
+        });
+    </script>
+<div style="display:none">
+    <script type="text/javascript" src="//www.4399dmw.com/js/dmcount.js"></script>
+</div>
+</body>
+</html>
