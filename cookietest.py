@@ -43,7 +43,8 @@ def web():
 
 
 
-    driver = webdriver.Chrome(service=service, options=options)
+    #driver = webdriver.Chrome(service=service, options=options)
+    driver = webdriver.Chrome(".\chromedrive\chromedriver.exe", options=options)
     driver.get("http://www.4399dmw.com/search/dh-1-0-0-0-0-0-0/")
     #如果10s页面还没加载出来,就抛出一个异常,需要配合try来做
     #driver.set_page_load_timeout(10)
